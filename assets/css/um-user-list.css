@@ -1,0 +1,65 @@
+/**
+ * UM User List
+ * https://suiteplugins.com
+ *
+ * Copyright (c) 2019 SuitePlugins
+ * Licensed under the GPLv2+ license.
+ */
+
+ .umul-member-list-container{
+
+}
+.umul-member-list-container div{
+
+}
+.umul-member-list-refresh-wrap{
+	margin-top: 10px;
+	text-align: center;
+}
+
+.umul-member-wrap{
+
+}
+.umul-member-name{
+	
+}
+.umul-member-uname{
+	
+}
+.umul-member-name a, .umul-member-uname a{
+	text-decoration: none !important;
+	box-shadow: none !important;
+}
+.umul-member-name a{
+	color: #000;
+	font-weight: 800;
+	font-size: 1.3em;
+}
+.umul-member-uname a{
+	color: #777;
+	font-size: 1em;
+	font-weight: 600;
+}
+.umul-member-connect{
+	cursor: pointer;
+	border: 1px solid #ccc;
+	padding: 2px 5px;
+	display: inline-block;
+	width: auto;
+	margin: 5px 0;
+}
+.umul-member-avatar{
+	width: 80px;
+	height: 80px;
+	display: inline-block;
+	margin-right: 15px;
+	margin-bottom: 10px;
+}
+.umul-member-avatar img{
+	max-width: 100%;
+	border-radius: 50px;
+}
+.umul-member-info{
+	display: inline-block;
+	vertical-align: middle;
+}
